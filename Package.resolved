@@ -1,5 +1,5 @@
 {
-  "originHash" : "48a5b1d9d8ad2ae82372cc9e4a69b990518f9dbfbd5e8a7fbbdba3d0b0647f8b",
+  "originHash" : "d02a6546a85c7285cf157587c83d982d88f516203f8d8cd6ee5f61c4392a8113",
   "pins" : [
     {
       "identity" : "async-http-client",
@@ -17,6 +17,15 @@
       "state" : {
         "revision" : "8015391e80cad107555b458344908b5ac558d294",
         "version" : "2.7.0"
+      }
+    },
+    {
+      "identity" : "multipart-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/multipart-kit.git",
+      "state" : {
+        "revision" : "3498e60218e6003894ff95192d756e238c01f44e",
+        "version" : "4.7.1"
       }
     },
     {
